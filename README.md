@@ -1,4 +1,4 @@
-Cat Game
+Cat Game 🐱😼😺
 
 A cute cat theme matching game built with Python and Tkinter. Place cats on the board, match three identical cats horizontally, vertically, or diagonally, and keep scoring before the board fills up to the top!
 
@@ -37,5 +37,4 @@ How to Play
 
 Built With
 
-Python
-Tkinter
+Python & Tkinter
